@@ -6,7 +6,7 @@ I worked on identifying patterns in stock levels, predicting shortages, and crea
 The idea came from my own experience working with warehouse teams and developing tools to support them.  
 In this project, I simulate typical warehouse data and go through the full cycle: from raw data to insights and visualizations.
 
-## 🔍 Goal
+Goal
 
 To build a forecasting tool that helps prevent stockouts and supports better decision-making in inventory management.
 
