@@ -18,6 +18,11 @@ Structure
 - `sql/` — queries used for summarizing and extracting insights
 - `reports/` — summary report (PDF or Markdown)
 
+## 📓 Notebooks
+
+- [Inventory analysis](notebooks/inventory_analysis.ipynb): exploring volume, weight and packaging efficiency.
+
+
 ## Tools used
 
 - Python (Pandas, Seaborn)
